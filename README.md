@@ -1,5 +1,6 @@
 # web-dev-lab
 Chibaza Kapulo
+
 Taonga Chulu
 
 In this lab, I installed Visual Studio Code, Git, and Node.js to set up my development environment. I created a new project folder called web-dev-lab and built a basic HTML page with a heading and a paragraph to display a simple message. Afterward, I opened the HTML file in a browser to view my work.
